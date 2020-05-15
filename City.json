@@ -1,5 +1,4 @@
-
-	{
+[	{
 	"id" : "US-AK",
 	"title" : "Anchorage",
 	"latitude" : 61.2181,
@@ -2708,4 +2707,5 @@
 	"assistedLiving" : 119,
 	"homeCare" : 174,
 	"value" : 186
-	},
+	} 
+]

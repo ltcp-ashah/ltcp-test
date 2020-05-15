@@ -1,0 +1,2711 @@
+
+	{
+	"id" : "US-AK",
+	"title" : "Anchorage",
+	"latitude" : 61.2181,
+	"longitude" : -149.9003,
+	"nursingHome" : 490,
+	"assistedLiving" : 190,
+	"homeCare" : 180,
+	"value" : 286.666666666667
+	},
+	{
+	"id" : "US-AL",
+	"title" : "Birmingham",
+	"latitude" : 33.5446,
+	"longitude" : -86.9292,
+	"nursingHome" : 200,
+	"assistedLiving" : 146,
+	"homeCare" : 114,
+	"value" : 153.333333333333
+	},
+	{
+	"id" : "US-AL",
+	"title" : "Huntsville",
+	"latitude" : 34.734,
+	"longitude" : -86.5229,
+	"nursingHome" : 215,
+	"assistedLiving" : 141,
+	"homeCare" : 114,
+	"value" : 156.666666666667
+	},
+	{
+	"id" : "US-AL",
+	"title" : "Mobile",
+	"latitude" : 30.6589,
+	"longitude" : -88.178,
+	"nursingHome" : 208,
+	"assistedLiving" : 133,
+	"homeCare" : 108,
+	"value" : 149.666666666667
+	},
+	{
+	"id" : "US-AL",
+	"title" : "Montgomery",
+	"latitude" : 32.2334,
+	"longitude" : -86.2085,
+	"nursingHome" : 216,
+	"assistedLiving" : 125,
+	"homeCare" : 108,
+	"value" : 149.666666666667
+	},
+	{
+	"id" : "US-AR",
+	"title" : "Fayetteville",
+	"latitude" : 36.0992,
+	"longitude" : -94.1716,
+	"nursingHome" : 185,
+	"assistedLiving" : 162,
+	"homeCare" : 150,
+	"value" : 165.666666666667
+	},
+	{
+	"id" : "US-AR",
+	"title" : "Little Rock",
+	"latitude" : 34.7519,
+	"longitude" : -92.3925,
+	"nursingHome" : 192,
+	"assistedLiving" : 145,
+	"homeCare" : 120,
+	"value" : 152.333333333333
+	},
+	{
+	"id" : "US-AR",
+	"title" : "North Little Rock",
+	"latitude" : 34.8059,
+	"longitude" : -92.2305,
+	"nursingHome" : 192,
+	"assistedLiving" : 145,
+	"homeCare" : 120,
+	"value" : 152.333333333333
+	},
+	{
+	"id" : "US-AR",
+	"title" : "Rogers",
+	"latitude" : 36.332,
+	"longitude" : -94.1185,
+	"nursingHome" : 185,
+	"assistedLiving" : 133,
+	"homeCare" : 150,
+	"value" : 156
+	},
+	{
+	"id" : "US-AR",
+	"title" : "Springdale",
+	"latitude" : 36.1725,
+	"longitude" : -94.1535,
+	"nursingHome" : 185,
+	"assistedLiving" : 133,
+	"homeCare" : 150,
+	"value" : 156
+	},
+	{
+	"id" : "US-AZ",
+	"title" : "Phoenix",
+	"latitude" : 33.4484,
+	"longitude" : -112.074,
+	"nursingHome" : 229,
+	"assistedLiving" : 143,
+	"homeCare" : 150,
+	"value" : 174
+	},
+	{
+	"id" : "US-AZ",
+	"title" : "Tucson",
+	"latitude" : 32.2217,
+	"longitude" : -110.9265,
+	"nursingHome" : 210,
+	"assistedLiving" : 157,
+	"homeCare" : 150,
+	"value" : 172.333333333333
+	},
+	{
+	"id" : "US-AZ",
+	"title" : "Mesa",
+	"latitude" : 33.4125,
+	"longitude" : -111.8319,
+	"nursingHome" : 229,
+	"assistedLiving" : 143,
+	"homeCare" : 150,
+	"value" : 174
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Bakersfield",
+	"latitude" : 35.2944,
+	"longitude" : -118.9052,
+	"nursingHome" : 270,
+	"assistedLiving" : 160,
+	"homeCare" : 156,
+	"value" : 195.333333333333
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Los Angeles",
+	"latitude" : 34.0522,
+	"longitude" : -118.2437,
+	"nursingHome" : 272,
+	"assistedLiving" : 180,
+	"homeCare" : 156,
+	"value" : 202.666666666667
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Modesto",
+	"latitude" : 37.6566,
+	"longitude" : -121.0191,
+	"nursingHome" : 296,
+	"assistedLiving" : 126,
+	"homeCare" : 144,
+	"value" : 188.666666666667
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Orange",
+	"latitude" : 33.8143,
+	"longitude" : -117.8308,
+	"nursingHome" : 272,
+	"assistedLiving" : 180,
+	"homeCare" : 156,
+	"value" : 202.666666666667
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Riverside",
+	"latitude" : 33.9533,
+	"longitude" : -117.3962,
+	"nursingHome" : 272,
+	"assistedLiving" : 180,
+	"homeCare" : 156,
+	"value" : 202.666666666667
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Sacramento",
+	"latitude" : 38.5816,
+	"longitude" : -121.4944,
+	"nursingHome" : 308,
+	"assistedLiving" : 175,
+	"homeCare" : 168,
+	"value" : 217
+	},
+	{
+	"id" : "US-CA",
+	"title" : "San Diego",
+	"latitude" : 32.7153,
+	"longitude" : -117.1573,
+	"nursingHome" : 283,
+	"assistedLiving" : 182,
+	"homeCare" : 156,
+	"value" : 207
+	},
+	{
+	"id" : "US-CA",
+	"title" : "San Francisco",
+	"latitude" : 37.7749,
+	"longitude" : -122.4194,
+	"nursingHome" : 328,
+	"assistedLiving" : 199,
+	"homeCare" : 186,
+	"value" : 237.666666666667
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Stockton",
+	"latitude" : 38.025,
+	"longitude" : -121.2972,
+	"nursingHome" : 291,
+	"assistedLiving" : 112,
+	"homeCare" : 150,
+	"value" : 184.333333333333
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Atascadero",
+	"latitude" : 35.4754,
+	"longitude" : -120.6638,
+	"nursingHome" : 235,
+	"assistedLiving" : 196,
+	"homeCare" : 180,
+	"value" : 203.666666666667
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Chico",
+	"latitude" : 39.7301,
+	"longitude" : -121.8414,
+	"nursingHome" : 250,
+	"assistedLiving" : 146,
+	"homeCare" : 150,
+	"value" : 182
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Fresno",
+	"latitude" : 36.7464,
+	"longitude" : -119.6397,
+	"nursingHome" : 282,
+	"assistedLiving" : 145,
+	"homeCare" : 150,
+	"value" : 192.333333333333
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Lodi",
+	"latitude" : 38.1327,
+	"longitude" : -121.2724,
+	"nursingHome" : 291,
+	"assistedLiving" : 112,
+	"homeCare" : 150,
+	"value" : 184.333333333333
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Lompoc",
+	"latitude" : 34.6583,
+	"longitude" : -120.4506,
+	"nursingHome" : 274,
+	"assistedLiving" : 178,
+	"homeCare" : 174,
+	"value" : 208.666666666667
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Oakland",
+	"latitude" : 37.8044,
+	"longitude" : -122.2708,
+	"nursingHome" : 328,
+	"assistedLiving" : 199,
+	"homeCare" : 186,
+	"value" : 237.666666666667
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Paradise",
+	"latitude" : 39.7155,
+	"longitude" : -121.6551,
+	"nursingHome" : 250,
+	"assistedLiving" : 146,
+	"homeCare" : 150,
+	"value" : 182
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Paso Robles",
+	"latitude" : 35.6406,
+	"longitude" : -120.7003,
+	"nursingHome" : 235,
+	"assistedLiving" : 196,
+	"homeCare" : 180,
+	"value" : 203.666666666667
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Salinas",
+	"latitude" : 36.6777,
+	"longitude" : -121.6555,
+	"nursingHome" : 300,
+	"assistedLiving" : 172,
+	"homeCare" : 168,
+	"value" : 213.333333333333
+	},
+	{
+	"id" : "US-CA",
+	"title" : "San Jose",
+	"latitude" : 37.3378,
+	"longitude" : -121.8908,
+	"nursingHome" : 328,
+	"assistedLiving" : 199,
+	"homeCare" : 186,
+	"value" : 237.666666666667
+	},
+	{
+	"id" : "US-CA",
+	"title" : "San Luis Obispo",
+	"latitude" : 35.2828,
+	"longitude" : -120.6596,
+	"nursingHome" : 235,
+	"assistedLiving" : 196,
+	"homeCare" : 180,
+	"value" : 203.666666666667
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Santa Barbara",
+	"latitude" : 34.4208,
+	"longitude" : -119.6982,
+	"nursingHome" : 274,
+	"assistedLiving" : 178,
+	"homeCare" : 174,
+	"value" : 208.666666666667
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Santa Maria",
+	"latitude" : 34.953,
+	"longitude" : -120.4357,
+	"nursingHome" : 274,
+	"assistedLiving" : 178,
+	"homeCare" : 174,
+	"value" : 208.666666666667
+	},
+	{
+	"id" : "US-CA",
+	"title" : "Yolo",
+	"latitude" : 38.7343,
+	"longitude" : -121.8066,
+	"nursingHome" : 308,
+	"assistedLiving" : 175,
+	"homeCare" : 168,
+	"value" : 217
+	},
+	{
+	"id" : "US-CO",
+	"title" : "Colorado Springs",
+	"latitude" : 38.8339,
+	"longitude" : -104.8214,
+	"nursingHome" : 252,
+	"assistedLiving" : 140,
+	"homeCare" : 162,
+	"value" : 184.666666666667
+	},
+	{
+	"id" : "US-CO",
+	"title" : "Denver",
+	"latitude" : 39.7392,
+	"longitude" : -104.9847,
+	"nursingHome" : 316,
+	"assistedLiving" : 177,
+	"homeCare" : 168,
+	"value" : 220.333333333333
+	},
+	{
+	"id" : "US-CO",
+	"title" : "Boulder",
+	"latitude" : 40.015,
+	"longitude" : -105.2705,
+	"nursingHome" : 316,
+	"assistedLiving" : 177,
+	"homeCare" : 168,
+	"value" : 220.333333333333
+	},
+	{
+	"id" : "US-CO",
+	"title" : "Fort Collins",
+	"latitude" : 40.5853,
+	"longitude" : -105.0844,
+	"nursingHome" : 273,
+	"assistedLiving" : 155,
+	"homeCare" : 174,
+	"value" : 200.666666666667
+	},
+	{
+	"id" : "US-CO",
+	"title" : "Greeley",
+	"latitude" : 40.4109,
+	"longitude" : -104.7541,
+	"nursingHome" : 316,
+	"assistedLiving" : 177,
+	"homeCare" : 168,
+	"value" : 220.333333333333
+	},
+	{
+	"id" : "US-CO",
+	"title" : "Loveland",
+	"latitude" : 40.4262,
+	"longitude" : -105.09,
+	"nursingHome" : 273,
+	"assistedLiving" : 155,
+	"homeCare" : 174,
+	"value" : 200.666666666667
+	},
+	{
+	"id" : "US-CT",
+	"title" : "Hartford",
+	"latitude" : 41.7918,
+	"longitude" : -72.7188,
+	"nursingHome" : 457,
+	"assistedLiving" : 186,
+	"homeCare" : 150,
+	"value" : 264.333333333333
+	},
+	{
+	"id" : "US-DC",
+	"title" : "Washington",
+	"latitude" : 38.8933,
+	"longitude" : -77.0146,
+	"nursingHome" : 306,
+	"assistedLiving" : 205,
+	"homeCare" : 150,
+	"value" : 220.333333333333
+	},
+	{
+	"id" : "US-DE",
+	"title" : "Wilmington",
+	"latitude" : 39.7459,
+	"longitude" : -75.5466,
+	"nursingHome" : 328,
+	"assistedLiving" : 203,
+	"homeCare" : 150,
+	"value" : 227
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Boca Raton",
+	"latitude" : 26.3587,
+	"longitude" : -80.0831,
+	"nursingHome" : 322,
+	"assistedLiving" : 182,
+	"homeCare" : 120,
+	"value" : 208
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Clearwater",
+	"latitude" : 27.9902,
+	"longitude" : -82.7433,
+	"nursingHome" : 270,
+	"assistedLiving" : 149,
+	"homeCare" : 138,
+	"value" : 185.666666666667
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Daytona Beach",
+	"latitude" : 29.2108,
+	"longitude" : -81.0228,
+	"nursingHome" : 268,
+	"assistedLiving" : 151,
+	"homeCare" : 132,
+	"value" : 183.666666666667
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Fort Lauderdale",
+	"latitude" : 26.1223,
+	"longitude" : -80.1434,
+	"nursingHome" : 263,
+	"assistedLiving" : 156,
+	"homeCare" : 114,
+	"value" : 177.666666666667
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Fort Myers",
+	"latitude" : 26.5963,
+	"longitude" : -81.8824,
+	"nursingHome" : 283,
+	"assistedLiving" : 150,
+	"homeCare" : 144,
+	"value" : 192.333333333333
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Jacksonville",
+	"latitude" : 30.3449,
+	"longitude" : -81.6831,
+	"nursingHome" : 296,
+	"assistedLiving" : 157,
+	"homeCare" : 138,
+	"value" : 197
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Melbourne",
+	"latitude" : 28.0836,
+	"longitude" : -80.6081,
+	"nursingHome" : 285,
+	"assistedLiving" : 153,
+	"homeCare" : 132,
+	"value" : 190
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Miami",
+	"latitude" : 25.7743,
+	"longitude" : -80.1937,
+	"nursingHome" : 263,
+	"assistedLiving" : 156,
+	"homeCare" : 114,
+	"value" : 177.666666666667
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Naples",
+	"latitude" : 26.1423,
+	"longitude" : -81.796,
+	"nursingHome" : 300,
+	"assistedLiving" : 159,
+	"homeCare" : 144,
+	"value" : 201
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Orlando",
+	"latitude" : 28.5663,
+	"longitude" : -81.2608,
+	"nursingHome" : 270,
+	"assistedLiving" : 151,
+	"homeCare" : 132,
+	"value" : 184.333333333333
+	},
+	{
+	"id" : "US-FL",
+	"title" : "St. Petersburg",
+	"latitude" : 27.8918,
+	"longitude" : -82.7248,
+	"nursingHome" : 270,
+	"assistedLiving" : 149,
+	"homeCare" : 138,
+	"value" : 185.666666666667
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Tampa",
+	"latitude" : 27.872,
+	"longitude" : -82.4388,
+	"nursingHome" : 270,
+	"assistedLiving" : 149,
+	"homeCare" : 138,
+	"value" : 185.666666666667
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Titusville",
+	"latitude" : 28.6122,
+	"longitude" : -80.8076,
+	"nursingHome" : 285,
+	"assistedLiving" : 153,
+	"homeCare" : 132,
+	"value" : 190
+	},
+	{
+	"id" : "US-FL",
+	"title" : "West Palm Beach",
+	"latitude" : 26.7153,
+	"longitude" : -80.0534,
+	"nursingHome" : 322,
+	"assistedLiving" : 182,
+	"homeCare" : 120,
+	"value" : 208
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Bradenton",
+	"latitude" : 27.4272,
+	"longitude" : -82.4387,
+	"nursingHome" : 275,
+	"assistedLiving" : 168,
+	"homeCare" : 150,
+	"value" : 197.666666666667
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Cape Coral",
+	"latitude" : 26.6599,
+	"longitude" : -81.8934,
+	"nursingHome" : 283,
+	"assistedLiving" : 150,
+	"homeCare" : 144,
+	"value" : 192.333333333333
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Fort Pierce",
+	"latitude" : 27.3822,
+	"longitude" : -80.409,
+	"nursingHome" : 248,
+	"assistedLiving" : 139,
+	"homeCare" : 120,
+	"value" : 169
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Lakeland",
+	"latitude" : 28.0395,
+	"longitude" : -81.9498,
+	"nursingHome" : 261,
+	"assistedLiving" : 124,
+	"homeCare" : 132,
+	"value" : 172.333333333333
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Ocala",
+	"latitude" : 29.1872,
+	"longitude" : -82.1401,
+	"nursingHome" : 269,
+	"assistedLiving" : 147,
+	"homeCare" : 132,
+	"value" : 182.666666666667
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Palm Bay",
+	"latitude" : 27.9816,
+	"longitude" : -80.6894,
+	"nursingHome" : 285,
+	"assistedLiving" : 153,
+	"homeCare" : 132,
+	"value" : 190
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Port St. Lucie",
+	"latitude" : 27.2655,
+	"longitude" : -80.3389,
+	"nursingHome" : 248,
+	"assistedLiving" : 139,
+	"homeCare" : 120,
+	"value" : 169
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Punta Gorda",
+	"latitude" : 26.824,
+	"longitude" : -81.9547,
+	"nursingHome" : 285,
+	"assistedLiving" : 121,
+	"homeCare" : 138,
+	"value" : 181.333333333333
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Sarasota",
+	"latitude" : 27.3364,
+	"longitude" : -82.5307,
+	"nursingHome" : 275,
+	"assistedLiving" : 168,
+	"homeCare" : 150,
+	"value" : 197.666666666667
+	},
+	{
+	"id" : "US-FL",
+	"title" : "Winter Haven",
+	"latitude" : 28.0222,
+	"longitude" : -81.7329,
+	"nursingHome" : 261,
+	"assistedLiving" : 124,
+	"homeCare" : 132,
+	"value" : 172.333333333333
+	},
+	{
+	"id" : "US-GA",
+	"title" : "Atlanta",
+	"latitude" : 33.8913,
+	"longitude" : -84.0746,
+	"nursingHome" : 238,
+	"assistedLiving" : 145,
+	"homeCare" : 132,
+	"value" : 171.666666666667
+	},
+	{
+	"id" : "US-GA",
+	"title" : "Augusta",
+	"latitude" : 33.386,
+	"longitude" : -82.091,
+	"nursingHome" : 222,
+	"assistedLiving" : 144,
+	"homeCare" : 120,
+	"value" : 162
+	},
+	{
+	"id" : "US-GA",
+	"title" : "Macon",
+	"latitude" : 32.8067,
+	"longitude" : -83.6913,
+	"nursingHome" : 222,
+	"assistedLiving" : 103,
+	"homeCare" : 108,
+	"value" : 144.333333333333
+	},
+	{
+	"id" : "US-GA",
+	"title" : "Savannah",
+	"latitude" : 31.9714,
+	"longitude" : -81.0716,
+	"nursingHome" : 212,
+	"assistedLiving" : 119,
+	"homeCare" : 132,
+	"value" : 154.333333333333
+	},
+	{
+	"id" : "US-HI",
+	"title" : "Honolulu",
+	"latitude" : 21.3062,
+	"longitude" : -157.8585,
+	"nursingHome" : 327,
+	"assistedLiving" : 219,
+	"homeCare" : 174,
+	"value" : 240
+	},
+	{
+	"id" : "US-IA",
+	"title" : "Cedar Rapids",
+	"latitude" : 42.0794,
+	"longitude" : -91.5992,
+	"nursingHome" : 215,
+	"assistedLiving" : 143,
+	"homeCare" : 144,
+	"value" : 167.333333333333
+	},
+	{
+	"id" : "US-IA",
+	"title" : "Des Moines",
+	"latitude" : 41.6727,
+	"longitude" : -93.5722,
+	"nursingHome" : 265,
+	"assistedLiving" : 145,
+	"homeCare" : 156,
+	"value" : 188.666666666667
+	},
+	{
+	"id" : "US-IA",
+	"title" : "Davenport",
+	"latitude" : 41.613,
+	"longitude" : -90.6063,
+	"nursingHome" : 202,
+	"assistedLiving" : 141,
+	"homeCare" : 132,
+	"value" : 158.333333333333
+	},
+	{
+	"id" : "US-ID",
+	"title" : "Boise City",
+	"latitude" : 43.4599,
+	"longitude" : -116.244,
+	"nursingHome" : 250,
+	"assistedLiving" : 132,
+	"homeCare" : 138,
+	"value" : 173.333333333333
+	},
+	{
+	"id" : "US-IL",
+	"title" : "Chicago",
+	"latitude" : 41.8119,
+	"longitude" : -87.6873,
+	"nursingHome" : 285,
+	"assistedLiving" : 182,
+	"homeCare" : 150,
+	"value" : 205.666666666667
+	},
+	{
+	"id" : "US-IL",
+	"title" : "Peoria",
+	"latitude" : 40.7442,
+	"longitude" : -89.7184,
+	"nursingHome" : 208,
+	"assistedLiving" : 160,
+	"homeCare" : 126,
+	"value" : 164.666666666667
+	},
+	{
+	"id" : "US-IL",
+	"title" : "Rockford",
+	"latitude" : 42.3254,
+	"longitude" : -89.1705,
+	"nursingHome" : 208,
+	"assistedLiving" : 145,
+	"homeCare" : 144,
+	"value" : 165.666666666667
+	},
+	{
+	"id" : "US-IL",
+	"title" : "Springfield",
+	"latitude" : 39.7495,
+	"longitude" : -89.606,
+	"nursingHome" : 204,
+	"assistedLiving" : 147,
+	"homeCare" : 126,
+	"value" : 159
+	},
+	{
+	"id" : "US-IL",
+	"title" : "Champaign",
+	"latitude" : 40.1164,
+	"longitude" : -88.2434,
+	"nursingHome" : 229,
+	"assistedLiving" : 150,
+	"homeCare" : 144,
+	"value" : 174.333333333333
+	},
+	{
+	"id" : "US-IL",
+	"title" : "Moline",
+	"latitude" : 41.4906,
+	"longitude" : -90.498,
+	"nursingHome" : 202,
+	"assistedLiving" : 141,
+	"homeCare" : 132,
+	"value" : 158.333333333333
+	},
+	{
+	"id" : "US-IL",
+	"title" : "Pekin",
+	"latitude" : 40.5607,
+	"longitude" : -89.6502,
+	"nursingHome" : 208,
+	"assistedLiving" : 160,
+	"homeCare" : 126,
+	"value" : 164.666666666667
+	},
+	{
+	"id" : "US-IL",
+	"title" : "Rock Island",
+	"latitude" : 41.5549,
+	"longitude" : -90.616,
+	"nursingHome" : 202,
+	"assistedLiving" : 141,
+	"homeCare" : 132,
+	"value" : 158.333333333333
+	},
+	{
+	"id" : "US-IL",
+	"title" : "Urbana",
+	"latitude" : 40.0746,
+	"longitude" : -88.1691,
+	"nursingHome" : 229,
+	"assistedLiving" : 150,
+	"homeCare" : 144,
+	"value" : 174.333333333333
+	},
+	{
+	"id" : "US-IN",
+	"title" : "Evansville",
+	"latitude" : 37.9971,
+	"longitude" : -87.575,
+	"nursingHome" : 223,
+	"assistedLiving" : 145,
+	"homeCare" : 132,
+	"value" : 166.666666666667
+	},
+	{
+	"id" : "US-IN",
+	"title" : "Indianapolis",
+	"latitude" : 39.7795,
+	"longitude" : -86.1328,
+	"nursingHome" : 238,
+	"assistedLiving" : 152,
+	"homeCare" : 132,
+	"value" : 174
+	},
+	{
+	"id" : "US-IN",
+	"title" : "Fort Wayne",
+	"latitude" : 41.0938,
+	"longitude" : -85.0707,
+	"nursingHome" : 240,
+	"assistedLiving" : 117,
+	"homeCare" : 144,
+	"value" : 167
+	},
+	{
+	"id" : "US-IN",
+	"title" : "Gary",
+	"latitude" : 41.5899,
+	"longitude" : -87.3732,
+	"nursingHome" : 285,
+	"assistedLiving" : 182,
+	"homeCare" : 150,
+	"value" : 205.666666666667
+	},
+	{
+	"id" : "US-IN",
+	"title" : "Lafayette",
+	"latitude" : 40.4276,
+	"longitude" : -86.8735,
+	"nursingHome" : 245,
+	"assistedLiving" : 129,
+	"homeCare" : 144,
+	"value" : 172.666666666667
+	},
+	{
+	"id" : "US-IN",
+	"title" : "South Bend",
+	"latitude" : 41.5968,
+	"longitude" : -86.293,
+	"nursingHome" : 267,
+	"assistedLiving" : 126,
+	"homeCare" : 138,
+	"value" : 177
+	},
+	{
+	"id" : "US-KS",
+	"title" : "Kansas City",
+	"latitude" : 39.0966,
+	"longitude" : -94.7495,
+	"nursingHome" : 220,
+	"assistedLiving" : 168,
+	"homeCare" : 138,
+	"value" : 175.333333333333
+	},
+	{
+	"id" : "US-KS",
+	"title" : "Topeka",
+	"latitude" : 39.0483,
+	"longitude" : -95.678,
+	"nursingHome" : 232,
+	"assistedLiving" : 179,
+	"homeCare" : 132,
+	"value" : 181
+	},
+	{
+	"id" : "US-KS",
+	"title" : "Wichita",
+	"latitude" : 37.6936,
+	"longitude" : -97.4804,
+	"nursingHome" : 182,
+	"assistedLiving" : 157,
+	"homeCare" : 144,
+	"value" : 161
+	},
+	{
+	"id" : "US-KY",
+	"title" : "Lexington",
+	"latitude" : 38.0283,
+	"longitude" : -84.4715,
+	"nursingHome" : 218,
+	"assistedLiving" : 151,
+	"homeCare" : 120,
+	"value" : 163
+	},
+	{
+	"id" : "US-KY",
+	"title" : "Louisville",
+	"latitude" : 38.189,
+	"longitude" : -85.6768,
+	"nursingHome" : 250,
+	"assistedLiving" : 155,
+	"homeCare" : 138,
+	"value" : 181
+	},
+	{
+	"id" : "US-KY",
+	"title" : "Henderson",
+	"latitude" : 37.8072,
+	"longitude" : -87.5991,
+	"nursingHome" : 223,
+	"assistedLiving" : 145,
+	"homeCare" : 132,
+	"value" : 166.666666666667
+	},
+	{
+	"id" : "US-LA",
+	"title" : "Baton Rouge",
+	"latitude" : 30.5159,
+	"longitude" : -91.0804,
+	"nursingHome" : 180,
+	"assistedLiving" : 130,
+	"homeCare" : 108,
+	"value" : 139.333333333333
+	},
+	{
+	"id" : "US-LA",
+	"title" : "New Orleans",
+	"latitude" : 29.9546,
+	"longitude" : -90.0751,
+	"nursingHome" : 180,
+	"assistedLiving" : 141,
+	"homeCare" : 132,
+	"value" : 151
+	},
+	{
+	"id" : "US-LA",
+	"title" : "Shreveport",
+	"latitude" : 32.6076,
+	"longitude" : -93.7526,
+	"nursingHome" : 179,
+	"assistedLiving" : 108,
+	"homeCare" : 96,
+	"value" : 127.666666666667
+	},
+	{
+	"id" : "US-LA",
+	"title" : "Bossier City",
+	"latitude" : 32.6276,
+	"longitude" : -93.609,
+	"nursingHome" : 179,
+	"assistedLiving" : 108,
+	"homeCare" : 96,
+	"value" : 127.666666666667
+	},
+	{
+	"id" : "US-LA",
+	"title" : "Lafayette",
+	"latitude" : 30.2241,
+	"longitude" : -92.0198,
+	"nursingHome" : 160,
+	"assistedLiving" : 114,
+	"homeCare" : 108,
+	"value" : 127.333333333333
+	},
+	{
+	"id" : "US-MA",
+	"title" : "Boston",
+	"latitude" : 42.3389,
+	"longitude" : -70.9196,
+	"nursingHome" : 398,
+	"assistedLiving" : 220,
+	"homeCare" : 174,
+	"value" : 264
+	},
+	{
+	"id" : "US-MA",
+	"title" : "Worcester",
+	"latitude" : 42.2626,
+	"longitude" : -71.8023,
+	"nursingHome" : 398,
+	"assistedLiving" : 220,
+	"homeCare" : 174,
+	"value" : 264
+	},
+	{
+	"id" : "US-MA",
+	"title" : "Springfield",
+	"latitude" : 42.1707,
+	"longitude" : -72.6048,
+	"nursingHome" : 374,
+	"assistedLiving" : 163,
+	"homeCare" : 156,
+	"value" : 231
+	},
+	{
+	"id" : "US-MA",
+	"title" : "Fall River",
+	"latitude" : 41.7015,
+	"longitude" : -71.155,
+	"nursingHome" : 305,
+	"assistedLiving" : 164,
+	"homeCare" : 162,
+	"value" : 210.333333333333
+	},
+	{
+	"id" : "US-MA",
+	"title" : "Lawrence",
+	"latitude" : 42.7115,
+	"longitude" : -71.167,
+	"nursingHome" : 398,
+	"assistedLiving" : 220,
+	"homeCare" : 174,
+	"value" : 264
+	},
+	{
+	"id" : "US-MD",
+	"title" : "Baltimore",
+	"latitude" : 39.2847,
+	"longitude" : -76.6205,
+	"nursingHome" : 306,
+	"assistedLiving" : 205,
+	"homeCare" : 150,
+	"value" : 220.333333333333
+	},
+	{
+	"id" : "US-ME",
+	"title" : "Portland",
+	"latitude" : 43.6615,
+	"longitude" : -70.2553,
+	"nursingHome" : 351,
+	"assistedLiving" : 220,
+	"homeCare" : 162,
+	"value" : 244.333333333333
+	},
+	{
+	"id" : "US-MI",
+	"title" : "Ann Arbor",
+	"latitude" : 42.2535,
+	"longitude" : -83.8366,
+	"nursingHome" : 295,
+	"assistedLiving" : 180,
+	"homeCare" : 150,
+	"value" : 208.333333333333
+	},
+	{
+	"id" : "US-MI",
+	"title" : "Battle Creek",
+	"latitude" : 42.2464,
+	"longitude" : -85.0045,
+	"nursingHome" : 278,
+	"assistedLiving" : 167,
+	"homeCare" : 138,
+	"value" : 194.333333333333
+	},
+	{
+	"id" : "US-MI",
+	"title" : "Bay City",
+	"latitude" : 43.7378,
+	"longitude" : -83.9333,
+	"nursingHome" : 258,
+	"assistedLiving" : 144,
+	"homeCare" : 138,
+	"value" : 180
+	},
+	{
+	"id" : "US-MI",
+	"title" : "Detroit",
+	"latitude" : 42.3314,
+	"longitude" : -83.0458,
+	"nursingHome" : 295,
+	"assistedLiving" : 180,
+	"homeCare" : 150,
+	"value" : 208.333333333333
+	},
+	{
+	"id" : "US-MI",
+	"title" : "Grand Rapids",
+	"latitude" : 43.0314,
+	"longitude" : -85.5503,
+	"nursingHome" : 281,
+	"assistedLiving" : 166,
+	"homeCare" : 156,
+	"value" : 201
+	},
+	{
+	"id" : "US-MI",
+	"title" : "Lansing",
+	"latitude" : 42.7325,
+	"longitude" : -84.5555,
+	"nursingHome" : 283,
+	"assistedLiving" : 161,
+	"homeCare" : 138,
+	"value" : 194
+	},
+	{
+	"id" : "US-MI",
+	"title" : "Midland",
+	"latitude" : 43.6156,
+	"longitude" : -84.2472,
+	"nursingHome" : 258,
+	"assistedLiving" : 144,
+	"homeCare" : 138,
+	"value" : 180
+	},
+	{
+	"id" : "US-MI",
+	"title" : "East Lansing",
+	"latitude" : 42.7283,
+	"longitude" : -84.4882,
+	"nursingHome" : 283,
+	"assistedLiving" : 161,
+	"homeCare" : 138,
+	"value" : 194
+	},
+	{
+	"id" : "US-MI",
+	"title" : "Flint",
+	"latitude" : 43.002,
+	"longitude" : -83.6925,
+	"nursingHome" : 295,
+	"assistedLiving" : 180,
+	"homeCare" : 150,
+	"value" : 208.333333333333
+	},
+	{
+	"id" : "US-MI",
+	"title" : "Holland",
+	"latitude" : 42.7692,
+	"longitude" : -86.1164,
+	"nursingHome" : 281,
+	"assistedLiving" : 166,
+	"homeCare" : 156,
+	"value" : 201
+	},
+	{
+	"id" : "US-MI",
+	"title" : "Kalamazoo",
+	"latitude" : 42.2454,
+	"longitude" : -85.5299,
+	"nursingHome" : 278,
+	"assistedLiving" : 167,
+	"homeCare" : 138,
+	"value" : 194.333333333333
+	},
+	{
+	"id" : "US-MI",
+	"title" : "Muskegon",
+	"latitude" : 43.2329,
+	"longitude" : -86.1885,
+	"nursingHome" : 281,
+	"assistedLiving" : 166,
+	"homeCare" : 156,
+	"value" : 201
+	},
+	{
+	"id" : "US-MI",
+	"title" : "Saginaw",
+	"latitude" : 43.4588,
+	"longitude" : -84.0518,
+	"nursingHome" : 258,
+	"assistedLiving" : 144,
+	"homeCare" : 138,
+	"value" : 180
+	},
+	{
+	"id" : "US-MN",
+	"title" : "Minneapolis",
+	"latitude" : 44.98,
+	"longitude" : -93.2638,
+	"nursingHome" : 350,
+	"assistedLiving" : 134,
+	"homeCare" : 192,
+	"value" : 225.333333333333
+	},
+	{
+	"id" : "US-MN",
+	"title" : "St. Paul",
+	"latitude" : 45.0059,
+	"longitude" : -93.1059,
+	"nursingHome" : 350,
+	"assistedLiving" : 134,
+	"homeCare" : 192,
+	"value" : 225.333333333333
+	},
+	{
+	"id" : "US-MN",
+	"title" : "Duluth",
+	"latitude" : 46.7833,
+	"longitude" : -92.1066,
+	"nursingHome" : 254,
+	"assistedLiving" : 129,
+	"homeCare" : 168,
+	"value" : 183.666666666667
+	},
+	{
+	"id" : "US-MN",
+	"title" : "Moorhead",
+	"latitude" : 46.8739,
+	"longitude" : -96.7695,
+	"nursingHome" : 362,
+	"assistedLiving" : 95,
+	"homeCare" : 168,
+	"value" : 208.333333333333
+	},
+	{
+	"id" : "US-MO",
+	"title" : "Kansas City",
+	"latitude" : 39.0997,
+	"longitude" : -94.5786,
+	"nursingHome" : 220,
+	"assistedLiving" : 168,
+	"homeCare" : 138,
+	"value" : 175.333333333333
+	},
+	{
+	"id" : "US-MO",
+	"title" : "St. Louis",
+	"latitude" : 38.6531,
+	"longitude" : -90.2435,
+	"nursingHome" : 205,
+	"assistedLiving" : 147,
+	"homeCare" : 132,
+	"value" : 161.333333333333
+	},
+	{
+	"id" : "US-MO",
+	"title" : "Springfield",
+	"latitude" : 37.2581,
+	"longitude" : -93.3437,
+	"nursingHome" : 184,
+	"assistedLiving" : 134,
+	"homeCare" : 132,
+	"value" : 150
+	},
+	{
+	"id" : "US-MS",
+	"title" : "Jackson",
+	"latitude" : 32.2988,
+	"longitude" : -90.1848,
+	"nursingHome" : 194,
+	"assistedLiving" : 129,
+	"homeCare" : 108,
+	"value" : 143.666666666667
+	},
+	{
+	"id" : "US-MS",
+	"title" : "Biloxi",
+	"latitude" : 30.396,
+	"longitude" : -88.8853,
+	"nursingHome" : 237,
+	"assistedLiving" : 110,
+	"homeCare" : 126,
+	"value" : 157.666666666667
+	},
+	{
+	"id" : "US-MS",
+	"title" : "Gulfport",
+	"latitude" : 30.4158,
+	"longitude" : -89.0684,
+	"nursingHome" : 237,
+	"assistedLiving" : 110,
+	"homeCare" : 126,
+	"value" : 157.666666666667
+	},
+	{
+	"id" : "US-MS",
+	"title" : "Pascagoula",
+	"latitude" : 30.3658,
+	"longitude" : -88.5561,
+	"nursingHome" : 237,
+	"assistedLiving" : 110,
+	"homeCare" : 126,
+	"value" : 157.666666666667
+	},
+	{
+	"id" : "US-MT",
+	"title" : "Billings",
+	"latitude" : 45.7833,
+	"longitude" : -108.5007,
+	"nursingHome" : 273,
+	"assistedLiving" : 157,
+	"homeCare" : 150,
+	"value" : 193.333333333333
+	},
+	{
+	"id" : "US-MT",
+	"title" : "Missoula",
+	"latitude" : 46.8721,
+	"longitude" : -113.994,
+	"nursingHome" : 270,
+	"assistedLiving" : 156,
+	"homeCare" : 144,
+	"value" : 190
+	},
+	{
+	"id" : "US-NC",
+	"title" : "Asheville",
+	"latitude" : 35.6203,
+	"longitude" : -82.5286,
+	"nursingHome" : 245,
+	"assistedLiving" : 165,
+	"homeCare" : 132,
+	"value" : 180.666666666667
+	},
+	{
+	"id" : "US-NC",
+	"title" : "Charlotte",
+	"latitude" : 35.26,
+	"longitude" : -80.8042,
+	"nursingHome" : 238,
+	"assistedLiving" : 155,
+	"homeCare" : 138,
+	"value" : 177
+	},
+	{
+	"id" : "US-NC",
+	"title" : "Durham",
+	"latitude" : 36.0512,
+	"longitude" : -78.8577,
+	"nursingHome" : 232,
+	"assistedLiving" : 205,
+	"homeCare" : 138,
+	"value" : 191.666666666667
+	},
+	{
+	"id" : "US-NC",
+	"title" : "Greensboro",
+	"latitude" : 36.0726,
+	"longitude" : -79.792,
+	"nursingHome" : 249,
+	"assistedLiving" : 152,
+	"homeCare" : 132,
+	"value" : 177.666666666667
+	},
+	{
+	"id" : "US-NC",
+	"title" : "Raleigh",
+	"latitude" : 35.7977,
+	"longitude" : -78.6253,
+	"nursingHome" : 232,
+	"assistedLiving" : 205,
+	"homeCare" : 138,
+	"value" : 191.666666666667
+	},
+	{
+	"id" : "US-NC",
+	"title" : "Winston-Salem",
+	"latitude" : 36.0999,
+	"longitude" : -80.2442,
+	"nursingHome" : 249,
+	"assistedLiving" : 152,
+	"homeCare" : 132,
+	"value" : 177.666666666667
+	},
+	{
+	"id" : "US-NC",
+	"title" : "Chapel Hill",
+	"latitude" : 35.9162,
+	"longitude" : -79.0999,
+	"nursingHome" : 232,
+	"assistedLiving" : 205,
+	"homeCare" : 138,
+	"value" : 191.666666666667
+	},
+	{
+	"id" : "US-NC",
+	"title" : "Gastonia",
+	"latitude" : 35.2495,
+	"longitude" : -81.133,
+	"nursingHome" : 238,
+	"assistedLiving" : 155,
+	"homeCare" : 138,
+	"value" : 177
+	},
+	{
+	"id" : "US-NC",
+	"title" : "High Point",
+	"latitude" : 35.9359,
+	"longitude" : -79.9395,
+	"nursingHome" : 249,
+	"assistedLiving" : 152,
+	"homeCare" : 132,
+	"value" : 177.666666666667
+	},
+	{
+	"id" : "US-NC",
+	"title" : "Wilmington",
+	"latitude" : 34.0881,
+	"longitude" : -77.8526,
+	"nursingHome" : 205,
+	"assistedLiving" : 159,
+	"homeCare" : 132,
+	"value" : 165.333333333333
+	},
+	{
+	"id" : "US-ND",
+	"title" : "Fargo",
+	"latitude" : 46.8772,
+	"longitude" : -96.7898,
+	"nursingHome" : 362,
+	"assistedLiving" : 95,
+	"homeCare" : 168,
+	"value" : 208.333333333333
+	},
+	{
+	"id" : "US-ND",
+	"title" : "Grand Forks",
+	"latitude" : 47.9253,
+	"longitude" : -97.0329,
+	"nursingHome" : 338,
+	"assistedLiving" : 107,
+	"homeCare" : 168,
+	"value" : 204.333333333333
+	},
+	{
+	"id" : "US-NE",
+	"title" : "Lincoln",
+	"latitude" : 40.7845,
+	"longitude" : -96.6888,
+	"nursingHome" : 272,
+	"assistedLiving" : 166,
+	"homeCare" : 150,
+	"value" : 196
+	},
+	{
+	"id" : "US-NE",
+	"title" : "Omaha",
+	"latitude" : 41.2586,
+	"longitude" : -95.9378,
+	"nursingHome" : 241,
+	"assistedLiving" : 141,
+	"homeCare" : 156,
+	"value" : 179.333333333333
+	},
+	{
+	"id" : "US-NJ",
+	"title" : "Atlantic City",
+	"latitude" : 39.3643,
+	"longitude" : -74.4229,
+	"nursingHome" : 328,
+	"assistedLiving" : 203,
+	"homeCare" : 150,
+	"value" : 227
+	},
+	{
+	"id" : "US-NM",
+	"title" : "Albuquerque",
+	"latitude" : 35.0443,
+	"longitude" : -106.6729,
+	"nursingHome" : 250,
+	"assistedLiving" : 147,
+	"homeCare" : 144,
+	"value" : 180.333333333333
+	},
+	{
+	"id" : "US-NM",
+	"title" : "Santa Fe",
+	"latitude" : 35.5212,
+	"longitude" : -105.9818,
+	"nursingHome" : 247,
+	"assistedLiving" : 163,
+	"homeCare" : 156,
+	"value" : 188.666666666667
+	},
+	{
+	"id" : "US-NV",
+	"title" : "Las Vegas",
+	"latitude" : 36.175,
+	"longitude" : -115.1372,
+	"nursingHome" : 228,
+	"assistedLiving" : 123,
+	"homeCare" : 150,
+	"value" : 167
+	},
+	{
+	"id" : "US-NV",
+	"title" : "Reno",
+	"latitude" : 39.5296,
+	"longitude" : -119.8138,
+	"nursingHome" : 278,
+	"assistedLiving" : 140,
+	"homeCare" : 150,
+	"value" : 189.333333333333
+	},
+	{
+	"id" : "US-NY",
+	"title" : "Albany",
+	"latitude" : 42.6526,
+	"longitude" : -73.7562,
+	"nursingHome" : 381,
+	"assistedLiving" : 167,
+	"homeCare" : 162,
+	"value" : 236.666666666667
+	},
+	{
+	"id" : "US-NY",
+	"title" : "Buffalo",
+	"latitude" : 42.7684,
+	"longitude" : -78.8871,
+	"nursingHome" : 401,
+	"assistedLiving" : 159,
+	"homeCare" : 150,
+	"value" : 236.666666666667
+	},
+	{
+	"id" : "US-NY",
+	"title" : "Rochester",
+	"latitude" : 43.286,
+	"longitude" : -77.6843,
+	"nursingHome" : 381,
+	"assistedLiving" : 176,
+	"homeCare" : 162,
+	"value" : 239.666666666667
+	},
+	{
+	"id" : "US-NY",
+	"title" : "Long Island",
+	"latitude" : 40.7454,
+	"longitude" : -73.9575,
+	"nursingHome" : 383,
+	"assistedLiving" : 235,
+	"homeCare" : 150,
+	"value" : 256
+	},
+	{
+	"id" : "US-NY",
+	"title" : "New York",
+	"latitude" : 40.7808,
+	"longitude" : -73.9772,
+	"nursingHome" : 383,
+	"assistedLiving" : 235,
+	"homeCare" : 150,
+	"value" : 256
+	},
+	{
+	"id" : "US-NY",
+	"title" : "Niagara Falls",
+	"latitude" : 43.0878,
+	"longitude" : -79.037,
+	"nursingHome" : 401,
+	"assistedLiving" : 159,
+	"homeCare" : 150,
+	"value" : 236.666666666667
+	},
+	{
+	"id" : "US-NY",
+	"title" : "Schenectady",
+	"latitude" : 42.8142,
+	"longitude" : -73.9396,
+	"nursingHome" : 381,
+	"assistedLiving" : 167,
+	"homeCare" : 162,
+	"value" : 236.666666666667
+	},
+	{
+	"id" : "US-NY",
+	"title" : "Syracuse",
+	"latitude" : 43.0214,
+	"longitude" : -76.1977,
+	"nursingHome" : 399,
+	"assistedLiving" : 158,
+	"homeCare" : 162,
+	"value" : 239.666666666667
+	},
+	{
+	"id" : "US-NY",
+	"title" : "Troy",
+	"latitude" : 42.7387,
+	"longitude" : -73.6739,
+	"nursingHome" : 381,
+	"assistedLiving" : 167,
+	"homeCare" : 162,
+	"value" : 236.666666666667
+	},
+	{
+	"id" : "US-OH",
+	"title" : "Akron",
+	"latitude" : 41.1287,
+	"longitude" : -81.54,
+	"nursingHome" : 235,
+	"assistedLiving" : 159,
+	"homeCare" : 138,
+	"value" : 177.333333333333
+	},
+	{
+	"id" : "US-OH",
+	"title" : "Canton",
+	"latitude" : 40.8118,
+	"longitude" : -81.3683,
+	"nursingHome" : 219,
+	"assistedLiving" : 143,
+	"homeCare" : 138,
+	"value" : 166.666666666667
+	},
+	{
+	"id" : "US-OH",
+	"title" : "Cincinnati",
+	"latitude" : 39.1668,
+	"longitude" : -84.5382,
+	"nursingHome" : 302,
+	"assistedLiving" : 165,
+	"homeCare" : 150,
+	"value" : 205.666666666667
+	},
+	{
+	"id" : "US-OH",
+	"title" : "Cleveland",
+	"latitude" : 41.6857,
+	"longitude" : -81.6728,
+	"nursingHome" : 235,
+	"assistedLiving" : 159,
+	"homeCare" : 138,
+	"value" : 177.333333333333
+	},
+	{
+	"id" : "US-OH",
+	"title" : "Columbus",
+	"latitude" : 39.969,
+	"longitude" : -83.0114,
+	"nursingHome" : 225,
+	"assistedLiving" : 177,
+	"homeCare" : 150,
+	"value" : 184
+	},
+	{
+	"id" : "US-OH",
+	"title" : "Dayton",
+	"latitude" : 39.7505,
+	"longitude" : -84.2686,
+	"nursingHome" : 264,
+	"assistedLiving" : 146,
+	"homeCare" : 144,
+	"value" : 184.666666666667
+	},
+	{
+	"id" : "US-OH",
+	"title" : "Toledo",
+	"latitude" : 41.6868,
+	"longitude" : -83.4394,
+	"nursingHome" : 234,
+	"assistedLiving" : 160,
+	"homeCare" : 138,
+	"value" : 177.333333333333
+	},
+	{
+	"id" : "US-OH",
+	"title" : "Hamilton",
+	"latitude" : 39.4361,
+	"longitude" : -84.6185,
+	"nursingHome" : 302,
+	"assistedLiving" : 165,
+	"homeCare" : 150,
+	"value" : 205.666666666667
+	},
+	{
+	"id" : "US-OH",
+	"title" : "Massillon",
+	"latitude" : 40.7959,
+	"longitude" : -81.5533,
+	"nursingHome" : 219,
+	"assistedLiving" : 143,
+	"homeCare" : 138,
+	"value" : 166.666666666667
+	},
+	{
+	"id" : "US-OH",
+	"title" : "Springfield",
+	"latitude" : 39.9408,
+	"longitude" : -83.8343,
+	"nursingHome" : 264,
+	"assistedLiving" : 146,
+	"homeCare" : 144,
+	"value" : 184.666666666667
+	},
+	{
+	"id" : "US-OH",
+	"title" : "Warren",
+	"latitude" : 41.2639,
+	"longitude" : -80.8164,
+	"nursingHome" : 218,
+	"assistedLiving" : 138,
+	"homeCare" : 120,
+	"value" : 158.666666666667
+	},
+	{
+	"id" : "US-OH",
+	"title" : "Youngstown",
+	"latitude" : 41.105,
+	"longitude" : -80.6945,
+	"nursingHome" : 218,
+	"assistedLiving" : 138,
+	"homeCare" : 120,
+	"value" : 158.666666666667
+	},
+	{
+	"id" : "US-OK",
+	"title" : "Oklahoma City",
+	"latitude" : 35.5514,
+	"longitude" : -97.4075,
+	"nursingHome" : 165,
+	"assistedLiving" : 125,
+	"homeCare" : 138,
+	"value" : 142.666666666667
+	},
+	{
+	"id" : "US-OK",
+	"title" : "Tulsa",
+	"latitude" : 36.1398,
+	"longitude" : -96.0297,
+	"nursingHome" : 160,
+	"assistedLiving" : 129,
+	"homeCare" : 138,
+	"value" : 142.333333333333
+	},
+	{
+	"id" : "US-OR",
+	"title" : "Portland",
+	"latitude" : 45.5235,
+	"longitude" : -122.6762,
+	"nursingHome" : 314,
+	"assistedLiving" : 158,
+	"homeCare" : 168,
+	"value" : 213.333333333333
+	},
+	{
+	"id" : "US-OR",
+	"title" : "Salem",
+	"latitude" : 44.9429,
+	"longitude" : -123.0351,
+	"nursingHome" : 314,
+	"assistedLiving" : 158,
+	"homeCare" : 168,
+	"value" : 213.333333333333
+	},
+	{
+	"id" : "US-OR",
+	"title" : "Ashland",
+	"latitude" : 42.1885,
+	"longitude" : -122.693,
+	"nursingHome" : 297,
+	"assistedLiving" : 139,
+	"homeCare" : 150,
+	"value" : 195.333333333333
+	},
+	{
+	"id" : "US-OR",
+	"title" : "Eugene",
+	"latitude" : 44.1005,
+	"longitude" : -123.1334,
+	"nursingHome" : 312,
+	"assistedLiving" : 145,
+	"homeCare" : 156,
+	"value" : 204.333333333333
+	},
+	{
+	"id" : "US-OR",
+	"title" : "Medford",
+	"latitude" : 42.2818,
+	"longitude" : -122.9054,
+	"nursingHome" : 297,
+	"assistedLiving" : 139,
+	"homeCare" : 150,
+	"value" : 195.333333333333
+	},
+	{
+	"id" : "US-OR",
+	"title" : "Springfield",
+	"latitude" : 44.0611,
+	"longitude" : -123.0153,
+	"nursingHome" : 312,
+	"assistedLiving" : 145,
+	"homeCare" : 156,
+	"value" : 204.333333333333
+	},
+	{
+	"id" : "US-PA",
+	"title" : "Harrisburg",
+	"latitude" : 40.2675,
+	"longitude" : -76.8837,
+	"nursingHome" : 320,
+	"assistedLiving" : 161,
+	"homeCare" : 144,
+	"value" : 208.333333333333
+	},
+	{
+	"id" : "US-PA",
+	"title" : "Lancaster",
+	"latitude" : 40.0185,
+	"longitude" : -76.2976,
+	"nursingHome" : 366,
+	"assistedLiving" : 163,
+	"homeCare" : 150,
+	"value" : 226.333333333333
+	},
+	{
+	"id" : "US-PA",
+	"title" : "Philadelphia",
+	"latitude" : 40.0018,
+	"longitude" : -75.1179,
+	"nursingHome" : 328,
+	"assistedLiving" : 203,
+	"homeCare" : 150,
+	"value" : 227
+	},
+	{
+	"id" : "US-PA",
+	"title" : "Pittsburgh",
+	"latitude" : 40.4344,
+	"longitude" : -80.0248,
+	"nursingHome" : 292,
+	"assistedLiving" : 156,
+	"homeCare" : 156,
+	"value" : 201.333333333333
+	},
+	{
+	"id" : "US-PA",
+	"title" : "York",
+	"latitude" : 40.0086,
+	"longitude" : -76.5972,
+	"nursingHome" : 341,
+	"assistedLiving" : 157,
+	"homeCare" : 144,
+	"value" : 214
+	},
+	{
+	"id" : "US-PA",
+	"title" : "Reading",
+	"latitude" : 40.3351,
+	"longitude" : -75.875,
+	"nursingHome" : 370,
+	"assistedLiving" : 173,
+	"homeCare" : 138,
+	"value" : 227
+	},
+	{
+	"id" : "US-PA",
+	"title" : "Allentown",
+	"latitude" : 40.6018,
+	"longitude" : -75.5225,
+	"nursingHome" : 391,
+	"assistedLiving" : 178,
+	"homeCare" : 144,
+	"value" : 237.666666666667
+	},
+	{
+	"id" : "US-PA",
+	"title" : "Bethlehem",
+	"latitude" : 40.6934,
+	"longitude" : -75.4712,
+	"nursingHome" : 391,
+	"assistedLiving" : 178,
+	"homeCare" : 144,
+	"value" : 237.666666666667
+	},
+	{
+	"id" : "US-PA",
+	"title" : "Carlisle",
+	"latitude" : 40.2417,
+	"longitude" : -77.1983,
+	"nursingHome" : 320,
+	"assistedLiving" : 161,
+	"homeCare" : 144,
+	"value" : 208.333333333333
+	},
+	{
+	"id" : "US-PA",
+	"title" : "Easton",
+	"latitude" : 40.6884,
+	"longitude" : -75.2207,
+	"nursingHome" : 391,
+	"assistedLiving" : 178,
+	"homeCare" : 144,
+	"value" : 237.666666666667
+	},
+	{
+	"id" : "US-PA",
+	"title" : "Erie",
+	"latitude" : 42.1292,
+	"longitude" : -80.0851,
+	"nursingHome" : 285,
+	"assistedLiving" : 143,
+	"homeCare" : 144,
+	"value" : 190.666666666667
+	},
+	{
+	"id" : "US-PA",
+	"title" : "Hazleton",
+	"latitude" : 40.9488,
+	"longitude" : -75.9563,
+	"nursingHome" : 294,
+	"assistedLiving" : 123,
+	"homeCare" : 156,
+	"value" : 191
+	},
+	{
+	"id" : "US-PA",
+	"title" : "Johnstown",
+	"latitude" : 40.3522,
+	"longitude" : -78.9383,
+	"nursingHome" : 254,
+	"assistedLiving" : 124,
+	"homeCare" : 138,
+	"value" : 172
+	},
+	{
+	"id" : "US-PA",
+	"title" : "Lebanon",
+	"latitude" : 40.3316,
+	"longitude" : -76.3976,
+	"nursingHome" : 320,
+	"assistedLiving" : 161,
+	"homeCare" : 144,
+	"value" : 208.333333333333
+	},
+	{
+	"id" : "US-PA",
+	"title" : "Scranton",
+	"latitude" : 41.4019,
+	"longitude" : -75.6376,
+	"nursingHome" : 294,
+	"assistedLiving" : 123,
+	"homeCare" : 156,
+	"value" : 191
+	},
+	{
+	"id" : "US-PA",
+	"title" : "Wilkes-Barre",
+	"latitude" : 41.2722,
+	"longitude" : -75.8801,
+	"nursingHome" : 294,
+	"assistedLiving" : 123,
+	"homeCare" : 156,
+	"value" : 191
+	},
+	{
+	"id" : "US-RI",
+	"title" : "Providence",
+	"latitude" : 41.7971,
+	"longitude" : -71.4255,
+	"nursingHome" : 305,
+	"assistedLiving" : 164,
+	"homeCare" : 162,
+	"value" : 210.333333333333
+	},
+	{
+	"id" : "US-RI",
+	"title" : "Warwick",
+	"latitude" : 41.7001,
+	"longitude" : -71.4162,
+	"nursingHome" : 305,
+	"assistedLiving" : 164,
+	"homeCare" : 162,
+	"value" : 210.333333333333
+	},
+	{
+	"id" : "US-SC",
+	"title" : "Charleston",
+	"latitude" : 32.8488,
+	"longitude" : -79.8577,
+	"nursingHome" : 237,
+	"assistedLiving" : 138,
+	"homeCare" : 132,
+	"value" : 169
+	},
+	{
+	"id" : "US-SC",
+	"title" : "Columbia",
+	"latitude" : 34.006,
+	"longitude" : -80.9708,
+	"nursingHome" : 260,
+	"assistedLiving" : 159,
+	"homeCare" : 120,
+	"value" : 179.666666666667
+	},
+	{
+	"id" : "US-SC",
+	"title" : "Greenville",
+	"latitude" : 34.8497,
+	"longitude" : -82.4538,
+	"nursingHome" : 214,
+	"assistedLiving" : 141,
+	"homeCare" : 120,
+	"value" : 158.333333333333
+	},
+	{
+	"id" : "US-SC",
+	"title" : "Aiken",
+	"latitude" : 33.5377,
+	"longitude" : -81.5999,
+	"nursingHome" : 222,
+	"assistedLiving" : 144,
+	"homeCare" : 120,
+	"value" : 162
+	},
+	{
+	"id" : "US-SC",
+	"title" : "Anderson",
+	"latitude" : 34.4381,
+	"longitude" : -82.8354,
+	"nursingHome" : 214,
+	"assistedLiving" : 141,
+	"homeCare" : 120,
+	"value" : 158.333333333333
+	},
+	{
+	"id" : "US-SC",
+	"title" : "Myrtle Beach",
+	"latitude" : 33.7389,
+	"longitude" : -78.9996,
+	"nursingHome" : 212,
+	"assistedLiving" : 136,
+	"homeCare" : 126,
+	"value" : 158
+	},
+	{
+	"id" : "US-SC",
+	"title" : "North Charleston",
+	"latitude" : 32.8546,
+	"longitude" : -79.9748,
+	"nursingHome" : 237,
+	"assistedLiving" : 138,
+	"homeCare" : 132,
+	"value" : 169
+	},
+	{
+	"id" : "US-SC",
+	"title" : "Rock Hill",
+	"latitude" : 34.9926,
+	"longitude" : -81.1787,
+	"nursingHome" : 238,
+	"assistedLiving" : 155,
+	"homeCare" : 138,
+	"value" : 177
+	},
+	{
+	"id" : "US-SC",
+	"title" : "Spartanburg",
+	"latitude" : 34.9496,
+	"longitude" : -81.932,
+	"nursingHome" : 214,
+	"assistedLiving" : 144,
+	"homeCare" : 120,
+	"value" : 159.333333333333
+	},
+	{
+	"id" : "US-SD",
+	"title" : "Sioux Falls",
+	"latitude" : 43.6746,
+	"longitude" : -96.7913,
+	"nursingHome" : 219,
+	"assistedLiving" : 128,
+	"homeCare" : 168,
+	"value" : 171.666666666667
+	},
+	{
+	"id" : "US-SD",
+	"title" : "Rapid City",
+	"latitude" : 44.0036,
+	"longitude" : -103.3589,
+	"nursingHome" : 241,
+	"assistedLiving" : 131,
+	"homeCare" : 162,
+	"value" : 178
+	},
+	{
+	"id" : "US-TN",
+	"title" : "Chattanooga",
+	"latitude" : 35.0456,
+	"longitude" : -85.3097,
+	"nursingHome" : 225,
+	"assistedLiving" : 144,
+	"homeCare" : 126,
+	"value" : 165
+	},
+	{
+	"id" : "US-TN",
+	"title" : "Knoxville",
+	"latitude" : 35.9901,
+	"longitude" : -83.9622,
+	"nursingHome" : 215,
+	"assistedLiving" : 134,
+	"homeCare" : 120,
+	"value" : 156.333333333333
+	},
+	{
+	"id" : "US-TN",
+	"title" : "Nashville",
+	"latitude" : 36.1866,
+	"longitude" : -86.7852,
+	"nursingHome" : 220,
+	"assistedLiving" : 148,
+	"homeCare" : 132,
+	"value" : 166.666666666667
+	},
+	{
+	"id" : "US-TN",
+	"title" : "Memphis",
+	"latitude" : 35.2017,
+	"longitude" : -89.9715,
+	"nursingHome" : 220,
+	"assistedLiving" : 162,
+	"homeCare" : 120,
+	"value" : 167.333333333333
+	},
+	{
+	"id" : "US-TN",
+	"title" : "Bristol",
+	"latitude" : 36.5042,
+	"longitude" : -82.2645,
+	"nursingHome" : 225,
+	"assistedLiving" : 127,
+	"homeCare" : 126,
+	"value" : 159.333333333333
+	},
+	{
+	"id" : "US-TN",
+	"title" : "Johnson City",
+	"latitude" : 36.3107,
+	"longitude" : -82.381,
+	"nursingHome" : 225,
+	"assistedLiving" : 127,
+	"homeCare" : 126,
+	"value" : 159.333333333333
+	},
+	{
+	"id" : "US-TN",
+	"title" : "Kingsport",
+	"latitude" : 36.5484,
+	"longitude" : -82.5618,
+	"nursingHome" : 225,
+	"assistedLiving" : 127,
+	"homeCare" : 126,
+	"value" : 159.333333333333
+	},
+	{
+	"id" : "US-TX",
+	"title" : "Austin",
+	"latitude" : 30.2672,
+	"longitude" : -97.7431,
+	"nursingHome" : 194,
+	"assistedLiving" : 158,
+	"homeCare" : 132,
+	"value" : 161.333333333333
+	},
+	{
+	"id" : "US-TX",
+	"title" : "Dallas/Fort Worth",
+	"latitude" : 32.91,
+	"longitude" : -97.1,
+	"nursingHome" : 160,
+	"assistedLiving" : 160,
+	"homeCare" : 132,
+	"value" : 150.666666666667
+	},
+	{
+	"id" : "US-TX",
+	"title" : "Houston",
+	"latitude" : 29.834,
+	"longitude" : -95.4342,
+	"nursingHome" : 162,
+	"assistedLiving" : 164,
+	"homeCare" : 132,
+	"value" : 152.666666666667
+	},
+	{
+	"id" : "US-TX",
+	"title" : "Lubbock",
+	"latitude" : 33.61,
+	"longitude" : -101.8213,
+	"nursingHome" : 170,
+	"assistedLiving" : 122,
+	"homeCare" : 114,
+	"value" : 135.333333333333
+	},
+	{
+	"id" : "US-TX",
+	"title" : "San Antonio",
+	"latitude" : 29.4375,
+	"longitude" : -98.4616,
+	"nursingHome" : 168,
+	"assistedLiving" : 139,
+	"homeCare" : 132,
+	"value" : 146.333333333333
+	},
+	{
+	"id" : "US-TX",
+	"title" : "Amarillo",
+	"latitude" : 35.4015,
+	"longitude" : -101.8951,
+	"nursingHome" : 176,
+	"assistedLiving" : 142,
+	"homeCare" : 138,
+	"value" : 152
+	},
+	{
+	"id" : "US-TX",
+	"title" : "Beaumont",
+	"latitude" : 30.086,
+	"longitude" : -94.1018,
+	"nursingHome" : 166,
+	"assistedLiving" : 127,
+	"homeCare" : 126,
+	"value" : 139.666666666667
+	},
+	{
+	"id" : "US-TX",
+	"title" : "Brazoria",
+	"latitude" : 29.0236,
+	"longitude" : -95.5867,
+	"nursingHome" : 162,
+	"assistedLiving" : 164,
+	"homeCare" : 132,
+	"value" : 152.666666666667
+	},
+	{
+	"id" : "US-TX",
+	"title" : "Corpus Christi",
+	"latitude" : 27.777,
+	"longitude" : -97.4632,
+	"nursingHome" : 173,
+	"assistedLiving" : 126,
+	"homeCare" : 114,
+	"value" : 137.666666666667
+	},
+	{
+	"id" : "US-TX",
+	"title" : "Edinburg",
+	"latitude" : 26.3017,
+	"longitude" : -98.1633,
+	"nursingHome" : 181,
+	"assistedLiving" : 116,
+	"homeCare" : 114,
+	"value" : 137
+	},
+	{
+	"id" : "US-TX",
+	"title" : "El Paso",
+	"latitude" : 31.7587,
+	"longitude" : -106.4869,
+	"nursingHome" : 148,
+	"assistedLiving" : 113,
+	"homeCare" : 114,
+	"value" : 125
+	},
+	{
+	"id" : "US-TX",
+	"title" : "Galveston",
+	"latitude" : 29.2205,
+	"longitude" : -94.9444,
+	"nursingHome" : 162,
+	"assistedLiving" : 164,
+	"homeCare" : 132,
+	"value" : 152.666666666667
+	},
+	{
+	"id" : "US-TX",
+	"title" : "McAllen",
+	"latitude" : 26.1771,
+	"longitude" : -98.252,
+	"nursingHome" : 181,
+	"assistedLiving" : 116,
+	"homeCare" : 114,
+	"value" : 137
+	},
+	{
+	"id" : "US-TX",
+	"title" : "Midland",
+	"latitude" : 31.8693,
+	"longitude" : -102.0317,
+	"nursingHome" : 164,
+	"assistedLiving" : 124,
+	"homeCare" : 132,
+	"value" : 140
+	},
+	{
+	"id" : "US-TX",
+	"title" : "Mission",
+	"latitude" : 26.2937,
+	"longitude" : -98.3008,
+	"nursingHome" : 181,
+	"assistedLiving" : 116,
+	"homeCare" : 114,
+	"value" : 137
+	},
+	{
+	"id" : "US-TX",
+	"title" : "Odessa",
+	"latitude" : 31.8457,
+	"longitude" : -102.3676,
+	"nursingHome" : 164,
+	"assistedLiving" : 124,
+	"homeCare" : 132,
+	"value" : 140
+	},
+	{
+	"id" : "US-TX",
+	"title" : "Port Arthur",
+	"latitude" : 29.8476,
+	"longitude" : -94.1297,
+	"nursingHome" : 166,
+	"assistedLiving" : 127,
+	"homeCare" : 126,
+	"value" : 139.666666666667
+	},
+	{
+	"id" : "US-TX",
+	"title" : "San Marcos",
+	"latitude" : 29.8754,
+	"longitude" : -97.9404,
+	"nursingHome" : 194,
+	"assistedLiving" : 158,
+	"homeCare" : 132,
+	"value" : 161.333333333333
+	},
+	{
+	"id" : "US-UT",
+	"title" : "Salt Lake City",
+	"latitude" : 40.6681,
+	"longitude" : -111.9083,
+	"nursingHome" : 220,
+	"assistedLiving" : 137,
+	"homeCare" : 150,
+	"value" : 169
+	},
+	{
+	"id" : "US-UT",
+	"title" : "Provo",
+	"latitude" : 40.2039,
+	"longitude" : -111.6261,
+	"nursingHome" : 200,
+	"assistedLiving" : 110,
+	"homeCare" : 168,
+	"value" : 159.333333333333
+	},
+	{
+	"id" : "US-UT",
+	"title" : "Ogden",
+	"latitude" : 41.2553,
+	"longitude" : -111.9567,
+	"nursingHome" : 220,
+	"assistedLiving" : 137,
+	"homeCare" : 150,
+	"value" : 169
+	},
+	{
+	"id" : "US-UT",
+	"title" : "Orem",
+	"latitude" : 40.2818,
+	"longitude" : -111.7209,
+	"nursingHome" : 200,
+	"assistedLiving" : 110,
+	"homeCare" : 168,
+	"value" : 159.333333333333
+	},
+	{
+	"id" : "US-VA",
+	"title" : "Newport News",
+	"latitude" : 37.1959,
+	"longitude" : -76.5248,
+	"nursingHome" : 256,
+	"assistedLiving" : 187,
+	"homeCare" : 126,
+	"value" : 189.666666666667
+	},
+	{
+	"id" : "US-VA",
+	"title" : "Norfolk",
+	"latitude" : 36.9312,
+	"longitude" : -76.2397,
+	"nursingHome" : 256,
+	"assistedLiving" : 187,
+	"homeCare" : 126,
+	"value" : 189.666666666667
+	},
+	{
+	"id" : "US-VA",
+	"title" : "Richmond",
+	"latitude" : 37.5242,
+	"longitude" : -77.4932,
+	"nursingHome" : 270,
+	"assistedLiving" : 180,
+	"homeCare" : 132,
+	"value" : 194
+	},
+	{
+	"id" : "US-VA",
+	"title" : "Roanoke",
+	"latitude" : 37.2742,
+	"longitude" : -79.9579,
+	"nursingHome" : 257,
+	"assistedLiving" : 141,
+	"homeCare" : 132,
+	"value" : 176.666666666667
+	},
+	{
+	"id" : "US-VA",
+	"title" : "Virginia Beach",
+	"latitude" : 36.7957,
+	"longitude" : -76.0126,
+	"nursingHome" : 256,
+	"assistedLiving" : 187,
+	"homeCare" : 126,
+	"value" : 189.666666666667
+	},
+	{
+	"id" : "US-VA",
+	"title" : "Petersburg",
+	"latitude" : 37.2048,
+	"longitude" : -77.3928,
+	"nursingHome" : 270,
+	"assistedLiving" : 180,
+	"homeCare" : 132,
+	"value" : 194
+	},
+	{
+	"id" : "US-VT",
+	"title" : "Burlington",
+	"latitude" : 44.4421,
+	"longitude" : -73.0825,
+	"nursingHome" : 345,
+	"assistedLiving" : 192,
+	"homeCare" : 168,
+	"value" : 235
+	},
+	{
+	"id" : "US-WA",
+	"title" : "Bellingham",
+	"latitude" : 48.7596,
+	"longitude" : -122.4882,
+	"nursingHome" : 279,
+	"assistedLiving" : 148,
+	"homeCare" : 180,
+	"value" : 202.333333333333
+	},
+	{
+	"id" : "US-WA",
+	"title" : "Spokane",
+	"latitude" : 47.6536,
+	"longitude" : -117.4317,
+	"nursingHome" : 314,
+	"assistedLiving" : 166,
+	"homeCare" : 168,
+	"value" : 216
+	},
+	{
+	"id" : "US-WA",
+	"title" : "Seattle",
+	"latitude" : 47.6062,
+	"longitude" : -122.3321,
+	"nursingHome" : 338,
+	"assistedLiving" : 183,
+	"homeCare" : 186,
+	"value" : 235.666666666667
+	},
+	{
+	"id" : "US-WA",
+	"title" : "Tacoma",
+	"latitude" : 47.2529,
+	"longitude" : -122.4443,
+	"nursingHome" : 338,
+	"assistedLiving" : 183,
+	"homeCare" : 186,
+	"value" : 235.666666666667
+	},
+	{
+	"id" : "US-WA",
+	"title" : "Bremerton",
+	"latitude" : 47.5754,
+	"longitude" : -122.6958,
+	"nursingHome" : 338,
+	"assistedLiving" : 183,
+	"homeCare" : 186,
+	"value" : 235.666666666667
+	},
+	{
+	"id" : "US-WA",
+	"title" : "Kennewick",
+	"latitude" : 46.1814,
+	"longitude" : -119.1383,
+	"nursingHome" : 275,
+	"assistedLiving" : 136,
+	"homeCare" : 174,
+	"value" : 195
+	},
+	{
+	"id" : "US-WA",
+	"title" : "Pasco",
+	"latitude" : 46.2492,
+	"longitude" : -119.1044,
+	"nursingHome" : 275,
+	"assistedLiving" : 136,
+	"homeCare" : 174,
+	"value" : 195
+	},
+	{
+	"id" : "US-WA",
+	"title" : "Richland",
+	"latitude" : 46.2522,
+	"longitude" : -119.288,
+	"nursingHome" : 275,
+	"assistedLiving" : 136,
+	"homeCare" : 174,
+	"value" : 195
+	},
+	{
+	"id" : "US-WI",
+	"title" : "Green Bay",
+	"latitude" : 44.5192,
+	"longitude" : -88.0198,
+	"nursingHome" : 273,
+	"assistedLiving" : 136,
+	"homeCare" : 138,
+	"value" : 182.333333333333
+	},
+	{
+	"id" : "US-WI",
+	"title" : "Milwaukee",
+	"latitude" : 43.0389,
+	"longitude" : -87.9065,
+	"nursingHome" : 307,
+	"assistedLiving" : 164,
+	"homeCare" : 156,
+	"value" : 209
+	},
+	{
+	"id" : "US-WI",
+	"title" : "Madison",
+	"latitude" : 43.0696,
+	"longitude" : -89.4239,
+	"nursingHome" : 300,
+	"assistedLiving" : 164,
+	"homeCare" : 156,
+	"value" : 206.666666666667
+	},
+	{
+	"id" : "US-WI",
+	"title" : "Appleton",
+	"latitude" : 44.4163,
+	"longitude" : -88.4649,
+	"nursingHome" : 272,
+	"assistedLiving" : 177,
+	"homeCare" : 144,
+	"value" : 197.666666666667
+	},
+	{
+	"id" : "US-WI",
+	"title" : "Kenosha",
+	"latitude" : 42.556,
+	"longitude" : -87.8705,
+	"nursingHome" : 285,
+	"assistedLiving" : 182,
+	"homeCare" : 150,
+	"value" : 205.666666666667
+	},
+	{
+	"id" : "US-WI",
+	"title" : "La Crosse",
+	"latitude" : 43.9077,
+	"longitude" : -91.1676,
+	"nursingHome" : 260,
+	"assistedLiving" : 109,
+	"homeCare" : 156,
+	"value" : 175
+	},
+	{
+	"id" : "US-WI",
+	"title" : "Neenah",
+	"latitude" : 44.1811,
+	"longitude" : -88.4792,
+	"nursingHome" : 272,
+	"assistedLiving" : 177,
+	"homeCare" : 144,
+	"value" : 197.666666666667
+	},
+	{
+	"id" : "US-WI",
+	"title" : "Oshkosh",
+	"latitude" : 44.0686,
+	"longitude" : -88.6449,
+	"nursingHome" : 272,
+	"assistedLiving" : 177,
+	"homeCare" : 144,
+	"value" : 197.666666666667
+	},
+	{
+	"id" : "US-WI",
+	"title" : "Racine",
+	"latitude" : 42.7272,
+	"longitude" : -87.676,
+	"nursingHome" : 307,
+	"assistedLiving" : 164,
+	"homeCare" : 156,
+	"value" : 209
+	},
+	{
+	"id" : "US-WI",
+	"title" : "Superior",
+	"latitude" : 46.7016,
+	"longitude" : -92.0912,
+	"nursingHome" : 254,
+	"assistedLiving" : 129,
+	"homeCare" : 168,
+	"value" : 183.666666666667
+	},
+	{
+	"id" : "US-WV",
+	"title" : "Charleston",
+	"latitude" : 38.3498,
+	"longitude" : -81.6326,
+	"nursingHome" : 353,
+	"assistedLiving" : 152,
+	"homeCare" : 120,
+	"value" : 208.333333333333
+	},
+	{
+	"id" : "US-WY",
+	"title" : "Cheyenne",
+	"latitude" : 41.14,
+	"longitude" : -104.8202,
+	"nursingHome" : 283,
+	"assistedLiving" : 134,
+	"homeCare" : 144,
+	"value" : 187
+	},
+	{
+	"id" : "US-WY",
+	"title" : "Casper",
+	"latitude" : 42.8261,
+	"longitude" : -106.3896,
+	"nursingHome" : 265,
+	"assistedLiving" : 119,
+	"homeCare" : 174,
+	"value" : 186
+	},
